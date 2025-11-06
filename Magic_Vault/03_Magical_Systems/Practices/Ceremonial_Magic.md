@@ -8,6 +8,13 @@ Ceremonial magic, also known as high magic, refers to a broad range of magical r
 - **Divine Invocation:** Often involves calling upon divine beings, angels, or spirits for assistance or knowledge.
 - **Personal Transformation:** Aims not only for external results but also for the spiritual development and enlightenment of the practitioner.
 
+## The Role of Meditation
+Meditation is a non-negotiable, foundational skill for any serious ceremonial magician. It provides the mental and spiritual control necessary to perform complex rituals safely and effectively.
+
+- **Mental Discipline:** Ceremonial magic requires immense concentration to hold complex visualizations, remember long invocations, and direct will. Daily meditation practice builds this focus and prevents the distractions that can derail a ritual.
+- **Altered States of Consciousness:** The ability to enter a trance state is essential for communicating with spirits or experiencing divine union. Meditation is the primary training method for learning to shift consciousness at will.
+- **Energy Work:** Before a ritual, the magician uses meditation for grounding and centering. During the ritual, meditative techniques are used to raise, direct, and control the subtle energies required for the magical operation.
+
 ## Key Traditions
 - **Hermetic Order of the Golden Dawn:** A highly influential magical order of the late 19th and early 20th centuries, known for its elaborate rituals and system of magical training.
 - **Enochian Magic:** A system of ceremonial magic based on the 16th-century writings of John Dee and Edward Kelley, involving communication with angels.

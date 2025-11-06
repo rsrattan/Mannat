@@ -7,11 +7,10 @@ A type of symbol used in magic, representing a desired outcome, which is created
 2.  **Remove Duplicates:** Eliminate all repeating letters from the sentence.
 3.  **Design the Sigil:** Combine the remaining letters into a unique, abstract symbol. This can involve overlapping, removing vowels, or using a magic square.
 
-## Charging and Launching
-- **Charging:** The act of imbuing the sigil with magical energy. This is often done by entering a gnostic state (a state of no-mind or intense focus) through meditation, chanting, or physical exertion.
-- **Launching:** Releasing the charged sigil into the subconscious mind or the universe, often by destroying it (burning, burying, tearing) or forgetting its original meaning.
+## Achieving Gnosis for Charging
+The key to charging a sigil is to enter a "gnostic state"—an altered state of consciousness where the rational, censoring mind is bypassed. This allows the sigil's intent to be directly impressed upon the subconscious.
 
-## Purpose
-- Sigils are used to bypass the conscious mind's skepticism and directly impress a desire upon the subconscious, which then works to manifest it in reality.
-- They are a form of magical programming, designed to influence outcomes through focused will and symbolic representation.
+- **Inhibitory Gnosis:** This is achieved by quieting the mind and body to the point of non-thought. Common methods include deep meditation, prolonged sensory deprivation, slow rhythmic breathing, or exhaustion through fasting or sleeplessness.
+- **Ecstatic Gnosis:** This is achieved through intense arousal and sensory overload. Methods include ecstatic dancing, intense emotional experiences, physical exertion, or sexual arousal. The peak of the experience is the moment the sigil is charged.
 
+Once charged in a state of Gnosis, the sigil is typically "launched" by being destroyed (e.g., burned, buried) or put out of sight. Crucially, the practitioner must then actively forget the sigil's original meaning to prevent conscious desire from interfering with its manifestation.
