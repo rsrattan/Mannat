@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "96ab09e5918ead5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0113e74489a7cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3269a96dbc93e2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic_Vault/01_Religions_&_Mythologies/Dharmic/Buddhism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buddhism"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3caa60367e2a9a0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751560334c83498a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "149751ee3aba7a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e42ade226460a7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec2bd67277f9928b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "16c2488f07d4154b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d5d2bb2a2fce41b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e005026c5427bf71",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2636e8b38e4a366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34e109ddf64aab4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Magic_Vault/01_Religions_&_Mythologies/Dharmic/Buddhism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Buddhism"
+            }
+          },
+          {
+            "id": "2affe83932468238",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Magic_Vault/01_Religions_&_Mythologies/Dharmic/Buddhism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Buddhism"
+            }
+          },
+          {
+            "id": "501c8d541d29bfca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "68eaf5f388b1aeeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Magic_Vault/01_Religions_&_Mythologies/Dharmic/Buddhism.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Buddhism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3269a96dbc93e2da",
+  "lastOpenFiles": [
+    "Magic_Vault/01_Religions_&_Mythologies/Dharmic/Dharma.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Dharmic/Reincarnation.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Dharmic/Karma.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Dharmic/Hinduism.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Ancient_Pantheons/_Hub.md",
+    "Magic_Vault/03_Magical_Systems/Practices/Ceremonial_Magic.md",
+    "Magic_Vault/03_Magical_Systems/Divination/Scrying.md",
+    "Magic_Vault/02_Esoteric_Traditions/Eastern_Mysticism/Vajrayana.md",
+    "Magic_Vault/02_Esoteric_Traditions/Eastern_Mysticism/Zen.md",
+    "Magic_Vault/02_Esoteric_Traditions/Western_Esotericism/Rosicrucianism.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Ancient_Pantheons/Polytheism.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Ancient_Pantheons/Mythology.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Abrahamic/Sacred Texts.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Abrahamic/Prophets.md",
+    "Magic_Vault/01_Religions_&_Mythologies/Ancient_Pantheons/Egyptian.md",
+    "Vipassana Meditation.md",
+    "Magic_Vault/03_Magical_Systems/Practices/_Hub.md",
+    "Magic_Vault/03_Magical_Systems/Practices/Sigils.md",
+    "Magic_Vault/03_Magical_Systems/Practices/Ritual_Magic.md",
+    "Magic_Vault/03_Magical_Systems/Practices/Folk_Magic.md",
+    "Magic_Vault/03_Magical_Systems/Practices/Alchemy.md",
+    "Magic_Vault/03_Magical_Systems/Divination/_Hub.md",
+    "Magic_Vault/03_Magical_Systems/Divination/Tarot.md",
+    "Magic_Vault/03_Magical_Systems/Divination/Runes.md",
+    "Magic_Vault/03_Magical_Systems/Divination/I_Ching.md",
+    "Magic_Vault/03_Magical_Systems/Divination/Astrology.md",
+    "Magic_Vault/03_Magical_Systems/Practices",
+    "Magic_Vault/03_Magical_Systems/Divination",
+    "Magic_Vault/02_Esoteric_Traditions/Western_Esotericism",
+    "Magic_Vault/02_Esoteric_Traditions/Eastern_Mysticism",
+    "Magic_Vault/01_Religions_&_Mythologies/Dharmic",
+    "Magic_Vault/01_Religions_&_Mythologies/Ancient_Pantheons",
+    "Magic_Vault/01_Religions_&_Mythologies/Abrahamic",
+    "Magic_Vault/_Templates",
+    "Magic_Vault/_Assets",
+    "Magic_Vault/04_Core_Concepts"
+  ]
+}
