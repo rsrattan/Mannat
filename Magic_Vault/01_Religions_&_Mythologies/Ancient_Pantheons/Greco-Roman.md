@@ -24,3 +24,9 @@ The gods and goddesses of ancient Greece and their Roman counterparts, forming t
 - **Epic Journeys:** As seen in Homer's *The Odyssey*.
 - **Tragic Heroes:** Noble characters who are destined for suffering and downfall, as in the plays of Sophocles.
 
+## Philosophical & Meditative Practices
+While not always framed as "meditation," Greco-Roman philosophy was rich with "spiritual exercises" designed to cultivate tranquility and self-awareness.
+
+- **Stoic Meditation:** The Stoics practiced *prosoche* (attention), a state of continuous mindfulness on the present moment. A key exercise was *praemeditatio malorum*, the premeditation of adversity, where one visualizes potential misfortunes to build psychological resilience.
+- **Platonic Meditation:** Platonism, especially in its later forms, involved elevating the soul through contemplation of the divine Forms. This could involve deep reflection on metaphysical concepts or geometric forms to achieve *henosis*, or union with 'the One'.
+- **Epicurean Meditation:** Epicureans practiced meditating on core principles to alleviate fear, such as the *tetrapharmakos* (the "four-part cure"). They would also focus their minds on pleasant memories to maintain a state of tranquility.

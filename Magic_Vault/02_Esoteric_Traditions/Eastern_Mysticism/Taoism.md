@@ -11,8 +11,10 @@ A philosophical and spiritual tradition of Chinese origin which emphasizes livin
 - **Tao Te Ching:** The foundational text of Taoism, traditionally attributed to Laozi, offering profound insights into the nature of the Tao and how to live in harmony with it.
 - **Zhuangzi:** A collection of anecdotes and parables that explore themes of freedom, spontaneity, and the relativity of human values.
 
-## Practices
-- **Meditation:** Various forms of meditation are practiced to cultivate inner peace, clarity, and connection with the Tao.
-- **Internal Alchemy (Neidan):** Practices aimed at transforming the body and spirit to achieve immortality or spiritual enlightenment.
-- **Martial Arts:** Many Chinese martial arts, such as Tai Chi Chuan, are deeply rooted in Taoist philosophy and principles.
+## Meditative Practices
+Taoist meditation aims to harmonize with the Tao by cultivating and circulating vital energy (Qi), quieting the mind, and unifying body and spirit.
 
+- **Emptiness Meditation (Zuowang):** Literally "sitting and forgetting," this is a core practice of sitting quietly to empty the mind of all thoughts and mental images. The goal is to achieve a state of profound stillness and emptiness, allowing one's spirit to be replenished.
+- **Breathing Meditation (Zhuanqi):** This practice focuses on the breath to unite the mind and Qi. It can range from simple observation of the breath to more complex patterns of inhalation and exhalation designed to circulate energy through the body.
+- **Inner Observation (Neiguan):** A form of visualization where the practitioner turns their awareness inward to observe the body's organs, energy pathways (meridians), and the flow of Qi. This is a key component of Taoist internal alchemy (Neidan).
+- **Qigong:** A broader practice of "life energy cultivation" that combines slow movements, breathwork, and meditation to improve health and circulate Qi.

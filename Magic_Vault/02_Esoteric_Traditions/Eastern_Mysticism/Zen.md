@@ -7,6 +7,7 @@ Zen is a school of Mahayana Buddhism that emphasizes rigorous self-control, medi
 - It later spread to Vietnam, Korea, and Japan, where it became known as Zen.
 
 ## Key Practices
-- **Zazen:** Seated meditation, often practiced for extended periods, aimed at achieving a state of thoughtless awareness or concentrated introspection.
-- **Koans:** Paradoxical riddles or questions used in Rinzai Zen to provoke a sudden awakening or insight in the practitioner.
+- **Zazen (Seated Meditation):** This is the foundational practice of Zen. It involves a precise, stable posture and a focus on the breath. In the Soto school, the practice is often called *Shikantaza* or "just sitting," where the practitioner observes thoughts without judgment, allowing them to arise and pass away naturally.
+- **Kinhin (Walking Meditation):** A form of walking meditation practiced between long periods of zazen. It involves mindful, slow, and deliberate walking, synchronizing movement with the breath to maintain a continuous state of awareness.
+- **Koan Practice:** In the Rinzai school, practitioners meditate on paradoxical riddles or questions (koans) given by a teacher. The aim is not to solve them logically but to exhaust the analytical mind, leading to a sudden breakthrough of insight (*kensho* or *satori*).
 - **Satori:** A sudden enlightenment or awakening in Zen Buddhism, often triggered by a koan or intense meditation, leading to a profound understanding of reality.

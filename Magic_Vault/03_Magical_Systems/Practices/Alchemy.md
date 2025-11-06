@@ -16,3 +16,9 @@ An ancient branch of natural philosophy, alchemy is a philosophical and protosci
 - Beyond its material goals, alchemy was deeply concerned with spiritual transformation. The purification of metals was seen as analogous to the purification of the soul.
 - The journey to create the Philosopher's Stone was often a metaphor for achieving spiritual enlightenment and union with the divine.
 
+## Meditation & Inner Alchemy
+Meditation is the practical method of spiritual alchemy, where the laboratory is the self and the transmutation occurs within the practitioner's own consciousness.
+
+- **The Great Work as Meditation:** The stages of the Magnum Opus (e.g., *Nigredo*, *Albedo*, *Rubedo*) are used as a framework for meditation. Practitioners contemplate these stages as phases of their own psychological and spiritual development—confronting the shadow (*Nigredo*), purifying the soul (*Albedo*), and achieving union with the divine (*Rubedo*).
+- **Daoist Inner Alchemy (Neidan):** In Daoist traditions, meditation focuses on transforming the body's internal energies. Practices involve circulating vital energy (Qi) through specific pathways in the body to refine one's essence (Jing) and spirit (Shen), promoting health and spiritual longevity.
+- **Visualization of Symbols:** Alchemical symbols (e.g., the Ouroboros, the Sun and Moon, the Rebis) are used as focal points in meditation. By contemplating these symbols, the practitioner seeks to understand their deeper meanings and integrate their transformative power.

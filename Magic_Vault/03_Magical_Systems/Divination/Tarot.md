@@ -18,3 +18,9 @@ A pack of playing cards, used from the mid-15th century in various parts of Euro
     - **Pentacles:** Represents material possessions, work, and security.
 - Each suit has cards numbered Ace through Ten, and four court cards: Page, Knight, Queen, and King.
 
+## Tarot for Meditation
+Beyond divination, the Tarot is a powerful tool for meditation and self-discovery, using its rich symbolism as a focal point.
+
+- **Single-Card Contemplation:** This simple practice involves drawing a single card and using it as the focus of a meditation session. The practitioner gazes at the card, observing its colors, characters, and symbols, and reflects on how the card's energy and meaning relate to their own life and inner state.
+- **Imaginative Journeying:** A more active form of meditation where the practitioner visualizes the chosen card becoming a gateway. They mentally "step into" the scene of the card, interacting with its landscape and figures to gain deeper, intuitive insights. This is a form of active imagination or pathworking.
+- **Journaling:** After a meditation session, journaling about the experience, feelings, and any messages received helps to solidify the insights and integrate the card's wisdom.
