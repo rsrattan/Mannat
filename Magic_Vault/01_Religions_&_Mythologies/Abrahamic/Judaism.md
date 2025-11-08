@@ -18,7 +18,7 @@ An Abrahamic, monotheistic, and ethnic religion comprising the collective religi
 ## Meditative Practices
 Jewish meditation encompasses a variety of practices aimed at quieting the senses and engaging in deep introspection to connect with the Divine.
 
-- **Hitbodedut (Self-Seclusion):** An informal, conversational, and intimate form of prayer and meditation with God, often practiced in a natural, secluded setting.
+- **[[Hitbodedut]] (Self-Seclusion):** An informal, conversational, and intimate form of prayer and meditation with God, often practiced in a natural, secluded setting.
 - **Contemplation (Hitbonenut):** The practice of actively contemplating spiritual concepts, such as a passage from the Torah, to deepen awareness and integrate these ideas into one's consciousness.
 - **Visual Meditation:** A common form involves focusing on the four-letter Tetragrammaton (God's sacred name) or mentally permuting Hebrew letters.
 - **Chanting (Niggunim):** The use of soulful, repetitive, wordless melodies to express profound emotion and prepare the mind and soul for prayer.

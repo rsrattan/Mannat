@@ -8,3 +8,5 @@ This section explores the family of religions that originated in the Indian subc
 - [[Dharma]]
 - [[Karma]]
 - [[Reincarnation]]
+- [[Lakshmi]]
+- [[Kubera]]

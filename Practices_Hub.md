@@ -26,5 +26,19 @@ Practical exercises and techniques for self-improvement and skill acquisition.
 Example: See our shared [[Shadow Work Prompts]]
 
 ### Goals
+
 Our collective and individual aspirations, tracked and supported.
+
 Example: See our shared [[Quarterly Goals]]
+
+
+
+## Timing and Cycles
+
+
+
+Many of our practices, especially in magic and meditation, can be enhanced by aligning them with natural cycles. The phases of the moon, the turning of the seasons at the solstices and equinoxes, and other astrological events provide a framework for our work.
+
+
+
+For a list of key dates, see our [[Important_Dates]] note.

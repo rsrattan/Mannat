@@ -27,3 +27,12 @@ Astrology can provide a powerful framework for meditation, allowing practitioner
 - **Planetary Meditation:** This involves focusing on the archetypal energy of a specific planet. For example, one might meditate on the energy of Mars for courage, Venus for love, or Jupiter for expansion and wisdom. This can be done through visualization or by chanting mantras associated with the planet.
 - **Zodiacal Meditation:** A practice centered on the qualities of a particular zodiac sign. One can meditate on the characteristics of their own sun, moon, or rising sign to understand themselves better, or on the sign the sun is currently transiting to align with the energy of the season.
 - **Moon Phase Meditation:** Aligning meditation with the lunar cycle. For example, setting intentions during the New Moon, practicing gratitude during the Full Moon, and engaging in release and reflection during the waning phases.
+
+## Working with Astrological Timings
+
+Beyond understanding a natal chart, a key aspect of astrology is working with the current movements of the planets, known as transits. The timing of astrological events can be used to plan activities, set intentions, and perform rituals.
+
+*   **Moon Cycles:** The Moon is the fastest moving celestial body, and its phases are crucial. The New Moon is a time for new beginnings and setting intentions, while the Full Moon is a time of culmination and release.
+*   **Equinoxes and Solstices:** These mark the beginning of new seasons and are significant turning points in the astrological year.
+
+By aligning your actions with these celestial rhythms, you can work with the prevailing cosmic energies rather than against them. For a list of upcoming lunar and solar events, see the [[Important_Dates]] note.

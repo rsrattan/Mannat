@@ -23,3 +23,13 @@ Meditation is a foundational skill for the ritual magician, essential for develo
 - [[Lesser Banishing Ritual of the Pentagram]]: A foundational ritual for clearing and protecting a space.
 - **Enochian Magic:** A system of ceremonial magic based on the 16th-century writings of John Dee and Edward Kelley.
 - **Goetia:** A system of magic involving the evocation of demons, often for practical purposes.
+
+## The Importance of Timing
+
+In many traditions of ritual magic, the timing of a ritual is as important as the ritual itself. The energies of the cosmos are believed to be in constant flux, and performing a ritual at an auspicious time can greatly enhance its effectiveness.
+
+*   **Lunar Phases:** The phases of the moon are a primary consideration. For example, a waxing moon is often used for constructive magic (like growth and attraction), while a waning moon is used for banishing magic (like removing obstacles). The full moon is a time of great power, suitable for many types of workings.
+*   **Solar Events:** The solstices and equinoxes are major turning points in the year and are often marked by specific rituals. These are powerful times for setting intentions for the coming season.
+*   **Planetary Hours:** Some traditions divide the day and night into planetary hours, each ruled by a specific planet. Performing a ritual during the hour of the corresponding planet is believed to align the working with that planet's energy.
+
+For a list of upcoming lunar and solar events, see the [[Important_Dates]] note.

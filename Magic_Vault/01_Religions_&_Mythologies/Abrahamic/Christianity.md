@@ -19,5 +19,5 @@ An Abrahamic monotheistic religion based on the life and teachings of Jesus of N
 Christian meditation is not about emptying the mind, but rather filling it with God-centered thoughts to foster a deeper personal relationship. It is a structured form of prayer that involves active reflection on God's revelations.
 
 - **Lectio Divina (Divine Reading):** A traditional monastic practice of scriptural reading, meditation, and prayer intended to promote communion with God and to increase the knowledge of God's word.
-- **Centering Prayer:** A method of silent prayer that prepares us to receive the gift of contemplative prayer, in which we experience God's presence within us. It involves choosing a sacred word to recenter the mind when thoughts wander.
+- **[[Centering Prayer]]:** A method of silent prayer that prepares us to receive the gift of contemplative prayer, in which we experience God's presence within us. It involves choosing a sacred word to recenter the mind when thoughts wander.
 - **Imaginative Prayer (Ignatian Contemplation):** A practice of using one's imagination to place oneself within a scene from the scriptures, experiencing it with all the senses to draw closer to God.

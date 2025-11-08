@@ -8,3 +8,4 @@ This section covers the gods, goddesses, and myths of influential ancient civili
 - [[Norse]]
 - [[Mythology]]
 - [[Polytheism]]
+- [[Plutus]]
